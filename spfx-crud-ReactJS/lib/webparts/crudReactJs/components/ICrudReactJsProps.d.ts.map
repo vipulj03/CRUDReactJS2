@@ -1,0 +1,1 @@
+{"version":3,"file":"ICrudReactJsProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/crudReactJs/components/ICrudReactJsProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,oBAAoB,CAAC;AAElD,MAAM,WAAW,iBAAiB;IAChC,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,YAAY,EAAE,YAAY,CAAC;CAC5B"}

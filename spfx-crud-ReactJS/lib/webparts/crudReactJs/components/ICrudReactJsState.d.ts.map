@@ -1,0 +1,1 @@
+{"version":3,"file":"ICrudReactJsState.d.ts","sourceRoot":"","sources":["../../../../src/webparts/crudReactJs/components/ICrudReactJsState.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,MAAM,WAAW,eAAe;IAC9B,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,SAAS,EAAE,CAAC;CACpB"}
